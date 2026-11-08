@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+chat_data.db
+*.db-journal
+*.db-wal
+*.db-shm
